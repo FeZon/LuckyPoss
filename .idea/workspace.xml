@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07a946b6-3611-40b5-816e-ae98d4e911f1" name="Changes" comment="repair :)" />
+    <list default="true" id="07a946b6-3611-40b5-816e-ae98d4e911f1" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip/src/main/java/com/luckyposs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/zip/src/main/java/com/luckyposs/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="repair :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="repair :)" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
