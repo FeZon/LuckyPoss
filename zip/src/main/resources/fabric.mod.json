@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "luckyposs",
+  "version": "${version}",
+  "name": "LuckyPotion",
+  "description": "now you can craft lucky potion",
+  "authors": [FeZon],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets//icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.luckyposs.Main"
+    ]
+  },
+  "mixins": [
+    ".mixins.json"
+  ],
+  "depends": {
+    "minecraft": "~26.2",
+    "fabric-api": "*"
+  }
+}
